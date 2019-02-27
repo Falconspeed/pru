@@ -1,0 +1,734 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>PopularFreedom Rugby Union</title>
+</head>
+
+<body background="rPRL-logo.png">
+
+    <p align="center">&nbsp;
+
+  <div align="center">
+    <center>
+    <table border="1" width="98%" bgcolor="#FFFFFF" height="1">
+      <tr>
+        <td width="100%" height="90" align="center"><font size="7"><b>PopularFreedom Rugby
+          Union (PRU)</b></font>
+          <table border="0" width="100%">
+            <tr>
+              <td width="129%" align="center" bgcolor="#000000"><font color="#00FF00"><script LANGUAGE="JavaScript">
+        //store the quotations in arrays
+        quotes = new Array(1);
+        quotes[0] = "PopularFreedom Rugby Union";
+        //calculate a random index
+        index = Math.floor(Math.random() * quotes.length);
+        
+        //display the quotation
+        document.write("<DL>\n");
+        document.write("<DL>" + "\"" + quotes[index] + "\"\n");
+        document.write("<DD>" + "-- " + authors[index] + "\n");
+        document.write("</DL>\n");
+        
+        //done
+        </script>
+                </font></td>
+            </tr>
+          </table>
+        </td>
+      
+      </tr>
+    </center>
+      <tr>
+        <td width="100%" height="90" align="center">
+          <table border="1" width="100%">
+            <tr>
+              <td width="33%" rowspan="2">
+                <p align="center"><select onchange="window.location=value">
+            <option value="indexPRU.shtml">Info/Statistics
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <option value="rstats.html">Championship Stats
+            <option value="rcities.shtml">Cities of PopularFreedom            
+            <option value="rhistory.html">History           
+            <option value="rhis.html">Past Grand Championships          
+         
+              
+            <option value="rtrain.html">Training                    
+            </option>
+          </select>
+          
+        
+                <p align="center"><img border="0" src="Map.png" width="343" height="346">
+          
+        
+              </td>
+              <td width="33%" align="center"><b>WESTERN DIVISION</b>
+                <p><a href="rcamelot.shtml">Camelot
+                Wasps</a>  - 75.7</p>
+                <p>Cliffstone Eagles - (joining 2041)</p>
+                <p><a href="resato.shtml">Esato Crocodiles</a> 
+                - 70.3</p>
+                <p><a href="rlenita.shtml">
+          Lenita
+                Legions</a>  - 83.4</p>
+                <p><a href="rrocky.shtml"><span style="background-color: #00FF00">Rockyedge Tigers</span></a>  
+                <span style="background-color: #00FF00"> - 75.0</span>  
+                </p>
+                <p><a href="rstan.shtml">Stanislav
+                Lions</a>  - 79.2</p>
+                <p><a href="rvictory.shtml"><span style="background-color: #00FF00"> Union Saracens</span></a> 
+                <span style="background-color: #00FF00"> - 79.0</span> 
+                </p>
+              </td>
+              <td width="34%" align="center"><b>EASTERN DIVISION</b>
+                <p><a href="rathens.shtml">
+          Athens
+                Invaders</a>  - 72.1</p>
+                <p>Laurier Falcons - (joining 2041)</p>
+                <p><a href="rlhn.shtml"><span style="background-color: #00FF00">Locke
+                Harbour North Dragons</span></a> <span style="background-color: #00FF00">
+                - 82.3</span> </p>
+                <p><a href="rlhs.shtml">Locke
+                Harbour South Blues</a> - 74.6</p>
+                <p><a href="rmcc.shtml">Magna Crusaders</a> - 79.5</p>
+                <p><a href="rport.shtml">Port Sharks</a>
+                - 76.0</p>
+                <p><a href="rsacred.shtml">
+          Sacredicity Saints</a>    
+                - 81.5</p>
+              </td>
+            </tr>
+            <tr>
+              <td width="33%" align="center">&nbsp;</td>
+              <td width="34%" align="center">&nbsp; </td>
+            </tr>
+          </table>
+          <p align="left"><b><font size="5"><span style="background-color: #CCCCFF">2040
+          </span> - News and Results:&nbsp;&nbsp;</font></b>
+          <p align="left">Week 1 standings:&nbsp;<p align="left">Camelot 5 -
+          Lenita 15 - <a target="_blank" href="https://i.imgur.com/9xg4K1e.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/HiUVBmT.png">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left"><b><font size="5"><span style="background-color: #CC9900">2039 -
+          Offseason</span>:&nbsp; </font></b><font size="2"><b>(use CTRL + F to find information about your
+    team quickly)</b></font><p align="left">PRESEASON WEEK 2<p align="left">Magna
+          5 - Union 15 - <a target="_blank" href="https://i.imgur.com/cV9TfT1.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/dS2k5dZ.png">Stats</a><p align="left">LHN
+          0 - Lenita 7 - <a target="_blank" href="https://i.imgur.com/le3MOiN.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/2uBC5dX.png">Stats</a><p align="left">Esato
+          acquires
+                  Tomon = 64 - L (26) from LHS for €300K<p align="left">LHS 43
+          - Esato 7 - <a target="_blank" href="https://i.imgur.com/KzPP7ye.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/tgPy79e.png">Stats</a><p align="left">Stanislav
+          21 - Port 17 - <a target="_blank" href="https://i.imgur.com/9IeyEZ4.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/zBjoBy5.png">Stats</a><p align="left">Esato
+          acquires Wade
+                  = 67 - 8/FL (23) from Stanislav for €1M<p align="left">&nbsp;<p align="left">PRESEASON WEEK 1<p align="left">LHS
+          12 - Magna 10 - <a target="_blank" href="https://i.imgur.com/ZifhUwv.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/7DJhs8z.png">Stats</a><p align="left">Esato
+          0 - Athens 12 - <a target="_blank" href="https://i.imgur.com/MxVnCOI.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/TAxArZm.png">Stats</a><p align="left">Camelot
+          10 - Port 14 - <a target="_blank" href="https://i.imgur.com/Th3pOhd.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/NewKVRt.png">Stats</a><p align="left">Sacredicity
+          35 - Lenita 35 - <a target="_blank" href="https://i.imgur.com/hLAqsOJ.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/wFVINKt.png">Stats</a>
+          - <a target="_blank" href="https://youtu.be/PX-wZvyorNI">Top Game
+          Highlight</a>
+          <p align="left">&nbsp;
+          <p align="left"><b><font size="5"><span style="background-color: #CC9900">2039 - News and
+          Results</span>:&nbsp;
+          </font></b><font size="2"><b>(use CTRL + F to find information about your
+    team quickly)</b></font><p align="left"><b>GRAND CHAMPIONSHIP: <span style="background-color: #FFFF00">Lenita</span>
+          31 - Sacredicity 0 - <a target="_blank" href="https://i.imgur.com/M3DRK5W.png">Score</a>
+          - <a href="https://www.youtube.com/watch?v=PRv-qyJ3xWw">Match Video</a></b><p align="left">SEMIFINALS:<p align="left">Lenita
+          40 - Stanislav 5 - <a target="_blank" href="https://i.imgur.com/7yvBYnK.png">Score</a><p align="left">LHN
+          15 - Sacredicity 26 - <a target="_blank" href="https://i.imgur.com/ykp0LIw.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/tVGSChU.png">Stats</a><p align="left">&nbsp;<p align="left">WEEK 18:&nbsp;&nbsp;<a target="_blank" href="https://i.imgur.com/iP85SXU.png">Standings</a><p align="left">Port
+          5 - Stanislav 15 - <a target="_blank" href="https://i.imgur.com/PU9Dn2V.png">Score</a>&nbsp;<p align="left">Camelot
+          5 - Sacredicity 8 - <a target="_blank" href="https://i.imgur.com/MisvrtI.png">Score</a>&nbsp;<p align="left">Rockyedge
+          5 - Esato 0 - <a target="_blank" href="https://i.imgur.com/J9arwIg.png">Score</a>&nbsp;<p align="left">Lenita
+          78 - Athens 0 - <a target="_blank" href="https://i.imgur.com/QMDvF51.png">Score</a>&nbsp;<p align="left">LHN
+          36 - Union 10 - <a target="_blank" href="https://i.imgur.com/p35xDa9.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 17:&nbsp;
+          <a target="_blank" href="https://i.imgur.com/ztCbjuf.png">Standings</a><p align="left">Stanislav
+          10 - Camelot 20 - <a target="_blank" href="https://i.imgur.com/x44ikPS.png">Score</a>&nbsp;<p align="left">Port
+          25 - Esato 7 - <a target="_blank" href="https://i.imgur.com/82ViShA.png">Score</a>&nbsp;<p align="left">Lenita
+          38 - Sacredicity 5 - <a target="_blank" href="https://i.imgur.com/oPT2klc.png">Score</a>&nbsp;<p align="left">Rockyedge
+          5 - Union 28 - <a target="_blank" href="https://i.imgur.com/HHJrhUc.png">Score</a>&nbsp;<p align="left">LHN
+          71 - Athens 0 - <a target="_blank" href="https://i.imgur.com/xEUDQPZ.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 16:&nbsp; <a target="_blank" href="https://i.imgur.com/s0RrlzN.png">Standings</a><p align="left">Esato
+          0 - Stanislav 17 - <a target="_blank" href="https://i.imgur.com/7BLjCf3.png">Score</a>&nbsp;<p align="left">Camelot
+          7 - Lenita 40 - <a target="_blank" href="https://i.imgur.com/oSh3KRn.png">Score</a>&nbsp;<p align="left">Union
+          13 - Port 15 - <a target="_blank" href="https://i.imgur.com/WRa7PD8.png">Score</a>&nbsp;<p align="left">Sacredicity
+          14 - LHN 25- <a target="_blank" href="https://i.imgur.com/SJ65359.png">Score</a>&nbsp;<p align="left">Athens
+          22 - Rockyedge 5&nbsp;<p align="left">Laurier Falcons expansion franchise to join the PRU for the 2041 season.<p align="left">&nbsp;<p align="left">WEEK 15:&nbsp; <a target="_blank" href="https://i.imgur.com/n7GfORA.png">Standings</a><p align="left">Stanislav
+          20 - Lenita 44 - <a target="_blank" href="https://i.imgur.com/uNBHNq5.png">Score</a>&nbsp;<p align="left">Esato
+          6 - Union 36 - <a target="_blank" href="https://i.imgur.com/dYLK7fc.png">Score</a>&nbsp;<p align="left">LHN
+          33 - Camelot 0 - <a target="_blank" href="https://i.imgur.com/BFfvJ15.png">Score</a>&nbsp;<p align="left">Port
+          26 - Athens 34 - <a target="_blank" href="https://i.imgur.com/clZ8XQU.png">Score</a>&nbsp;<p align="left">Rockyedge
+          5 - Sacredicity 3 - <a target="_blank" href="https://i.imgur.com/bj9p3dv.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK
+          14:&nbsp; <a target="_blank" href="https://i.imgur.com/8RuloE0.png">Standings</a><p align="left">Union
+          7 - Stanislav 27 - <a target="_blank" href="https://i.imgur.com/Vu3Qjvn.png">Score</a>&nbsp;<p align="left">Lenita
+          7 - LHN 10 - <a target="_blank" href="https://i.imgur.com/QHCbBj8.png">Score</a>&nbsp;<p align="left">Athens
+          20 - Esato 18&nbsp;<p align="left">Camelot 20 - Rockyedge 29 - <a target="_blank" href="https://i.imgur.com/WbWzh5z.png">Score</a>&nbsp;<p align="left">Sacredicity
+          31 - Port 10 - <a target="_blank" href="https://i.imgur.com/hmyQgI0.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 13:&nbsp;
+          <a target="_blank" href="https://i.imgur.com/JMSCJ56.png">Standings</a><p align="left">Stanislav
+          13 - LHN 27 - <a target="_blank" href="https://i.imgur.com/uTWxyCS.png">Score</a>&nbsp;<p align="left">Union
+          31 - Athens 0 - <a target="_blank" href="https://i.imgur.com/O8rz278.png">Score</a>&nbsp;<p align="left">Rockyedge
+          0 - Lenita 45 - <a target="_blank" href="https://i.imgur.com/i91iJsa.png">Score</a>&nbsp;<p align="left">Esato
+          0 - Sacredicity 22 - <a target="_blank" href="https://i.imgur.com/X7AY5MA.png">Score</a><p align="left">Port
+          22 - Camelot 10 - <a target="_blank" href="https://i.imgur.com/zdteYJO.png">Score</a><p align="left">&nbsp;<p align="left">WEEK 12:&nbsp; <a target="_blank" href="https://i.imgur.com/U57dAHf.png">Standings</a><p align="left">Athens
+          5 - Stanislav 33 - <a target="_blank" href="https://i.imgur.com/gnWkZjR.png">Score</a>&nbsp;<p align="left">LHN
+          41 - Rockyedge 0 - <a target="_blank" href="https://i.imgur.com/Q5ij5JS.png">Score</a>&nbsp;<p align="left">Sacredicity
+          24 - Union 7 - <a target="_blank" href="https://i.imgur.com/1LxcMVw.png">Score</a><p align="left">Lenita
+          38 - Port 0 - <a target="_blank" href="https://i.imgur.com/ZX6MIT2.png">Score</a><p align="left">Camelot
+          16 - Esato 15 - <a target="_blank" href="https://i.imgur.com/Q5HjFDy.png">Score</a><p align="left">&nbsp;<p align="left">WEEK 11:&nbsp;
+          <a target="_blank" href="https://i.imgur.com/phhu5B3.png">Standings</a><p align="left">Stanislav
+          19 - Rockyedge 14 - <a target="_blank" href="https://i.imgur.com/5rtFtH8.png">Score</a>&nbsp;<p align="left">Athens
+          3 - Sacredicity 24 - <a target="_blank" href="https://i.imgur.com/Q27RztN.png">Score</a>&nbsp;<p align="left">Port
+          5 - LHN 38 - <a target="_blank" href="https://i.imgur.com/X02I6sk.png">Score</a>&nbsp;<p align="left">Union
+          14 - Camelot 8 - <a target="_blank" href="https://i.imgur.com/ziEqAau.png">Score</a>&nbsp;<p align="left">Esato
+          0 - Lenita 94 - <a target="_blank" href="https://i.imgur.com/G7ZNMu0.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 10:&nbsp; <a target="_blank" href="https://i.imgur.com/xesw8eR.png">Standings</a><p align="left">Sacredicity
+          7 - Stanislav 19 - <a target="_blank" href="https://i.imgur.com/3SOuVXc.png">Score</a>&nbsp;<p align="left">Rockyedge
+          7 - Port 31 - <a target="_blank" href="https://i.imgur.com/eBNbGZD.png">Score</a>&nbsp;<p align="left">Camelot
+          14 - Athens 17 - <a target="_blank" href="https://i.imgur.com/nRKOEyf.png">Score</a>&nbsp;<p align="left">LHN
+          53 - Esato 0 - <a target="_blank" href="https://i.imgur.com/9thfOxE.png">Score</a>&nbsp;<p align="left">Lenita
+          31 - Union 12 - <a target="_blank" href="https://i.imgur.com/8Cmoinp.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 9:&nbsp; <a target="_blank" href="https://i.imgur.com/KtmV559.png">Standings</a><p align="left">Stanislav
+          36 - Port 21 - <a target="_blank" href="https://i.imgur.com/QvJGnOL.png">Score</a>&nbsp;<p align="left">Sacredicity
+          66 - Camelot 14 - <a target="_blank" href="https://i.imgur.com/vwIWjD9.png">Score</a>&nbsp;<p align="left">Esato
+          5 - Rockyedge 23 - <a target="_blank" href="https://i.imgur.com/SF91Ky6.png">Score</a>&nbsp;<p align="left">Athens
+          7 - Lenita 43 - <a target="_blank" href="https://i.imgur.com/7VzXU4w.png">Score</a>&nbsp;<p align="left">Union
+          5 - LHN 27 - <a target="_blank" href="https://i.imgur.com/J7ajuzd.png">Score</a>&nbsp;<p align="left">Cliffstone
+          Eagles expansion franchise to join the PRU for the 2041 season.<p align="left">&nbsp;<p align="left">WEEK 8:&nbsp; <a target="_blank" href="https://i.imgur.com/0HNBKFe.png">Standings</a><p align="left">Camelot
+          17 - Stanislav 15 - <a target="_blank" href="https://i.imgur.com/ehFc7pu.png">Score</a>&nbsp;<p align="left">Esato
+          3 - Port 10 - <a target="_blank" href="https://i.imgur.com/DPsvdFA.png">Score</a>&nbsp;<p align="left">Sacredicity
+          7 - Lenita 12 - <a target="_blank" href="https://i.imgur.com/GHFeKvQ.png">Score</a>&nbsp;<p align="left">Union
+          10 - Rockyedge 10 - <a target="_blank" href="https://i.imgur.com/nYtntWP.png">Score</a>&nbsp;<p align="left">Athens
+          7 - LHN 43 - <a target="_blank" href="https://i.imgur.com/N7HGtIv.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 7:&nbsp; <a target="_blank" href="https://i.imgur.com/QdupbqZ.png">Standings</a><p align="left">Stanislav
+          66 - Esato 13 - <a target="_blank" href="https://i.imgur.com/S3DpMFR.png">Score</a>&nbsp;<p align="left">Lenita
+          51 - Camelot 27 - <a target="_blank" href="https://i.imgur.com/ydBQxIX.png">Score</a>&nbsp;<p align="left">Port
+          19 - Union 38 - <a target="_blank" href="https://i.imgur.com/HO02ane.png">Score</a>&nbsp;<p align="left">LHN
+          20 - Sacredicity 20 - <a target="_blank" href="https://i.imgur.com/QEKQ53B.png">Score</a>&nbsp;<p align="left">Rockyedge
+          27 - Athens 5 - <a target="_blank" href="https://i.imgur.com/HJQTFWc.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 6:&nbsp; <a target="_blank" href="https://i.imgur.com/egr4V2d.png">Standings</a><p align="left">Lenita
+          22 - Stanislav 19 - <a target="_blank" href="https://i.imgur.com/tfjfkfs.png">Score</a>&nbsp;<p align="left">
+          Union 32 - Esato 0 - <a target="_blank" href="https://i.imgur.com/TlQmtgS.png">Score</a>&nbsp;<p align="left">Camelot
+          0 - LHN 27 - <a target="_blank" href="https://i.imgur.com/8EwzQdk.png">Score</a>&nbsp;<p align="left">Athens
+          12 - Port 10 - <a target="_blank" href="https://i.imgur.com/PNfzpJz.png">Score</a>&nbsp;<p align="left">Sacredicity
+          24 - Rockyedge 14 - <a target="_blank" href="https://i.imgur.com/euDUdB3.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 5:&nbsp; <a target="_blank" href="https://i.imgur.com/Qu7B8Qn.png">Standings</a><p align="left"> Stanislav
+          35 - Union 26 - <a target="_blank" href="https://i.imgur.com/BiGhKVH.png">Score</a>&nbsp;<p align="left"> LHN
+          12 - Lenita 24 - <a target="_blank" href="https://i.imgur.com/eWwSjOJ.png">Score</a>&nbsp;<p align="left"> Esato
+          19 - Athens 29<p align="left"> Rockyedge 7 - Camelot 10 - <a target="_blank" href="https://i.imgur.com/vdNKmID.png">Score</a>&nbsp;<p align="left"> Port
+          5 - Sacredicity 38 - <a target="_blank" href="https://i.imgur.com/qbuG8f1.png">Score</a>&nbsp;<p align="left">Magna
+          Carta Crusaders expansion franchise to join the PRU for the 2040 season.&nbsp;
+          PRU to expand to west and east divisions, playoffs to expand to top
+          four teams per division in 2040.<p align="left">&nbsp;<p align="left">WEEK 4:&nbsp; <a target="_blank" href="https://i.imgur.com/3sw2ImD.png">Standings</a><p align="left"> LHN
+          17 - Stanislav 0 - <a target="_blank" href="https://i.imgur.com/EvGemNG.png">Score</a>&nbsp;<p align="left"> Athens
+          8 - Union 34 - <a target="_blank" href="https://i.imgur.com/AyupK17.png">Score</a>&nbsp;<p align="left"> Lenita
+          62 - Rockyedge 0 - <a target="_blank" href="https://i.imgur.com/tyvVth5.png">Score</a>&nbsp;<p align="left"> Sacredicity
+          34 - Esato 7 - <a target="_blank" href="https://i.imgur.com/6rDnak8.png">Score</a>&nbsp;<p align="left"> Camelot
+          7 - Port 13 - <a target="_blank" href="https://i.imgur.com/9gcDPQT.png">Score</a>&nbsp;<p align="left"> LHS
+          Blues expansion franchise to join the PRU for the 2040 season.<p align="left">&nbsp;<p align="left">WEEK 3:&nbsp; <a target="_blank" href="https://i.imgur.com/vBosLCP.png">Standings</a><p align="left"> Stanislav
+          50 - Athens 24 - <a target="_blank" href="https://i.imgur.com/Yy1xJoz.png">Score</a>&nbsp;<p align="left"> Rockyedge
+          5 - LHN 29<p align="left"> Union 34 - Sacredicity 38 - <a target="_blank" href="https://i.imgur.com/UEODk3B.png">Score</a>&nbsp;<p align="left"> Port
+          7 - Lenita 50 - <a target="_blank" href="https://i.imgur.com/mnXycvg.png">Score</a>&nbsp;<p align="left"> Esato
+          3 - Camelot 9 - <a target="_blank" href="https://i.imgur.com/Xwy1pMf.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 2:&nbsp; <a target="_blank" href="https://i.imgur.com/Woy08wh.png">Standings</a><p align="left"> Rockyedge
+          13 - Stanislav 22 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/31366846377/in/dateposted-public/">Score</a>&nbsp;<p align="left"> Sacredicity
+          66 - Athens 24 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/46306088141/in/dateposted-public/">Score</a>&nbsp;<p align="left"> LHN
+          44 - Port 0 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/45394511075/in/dateposted-public/">Score</a>&nbsp;<p align="left"> Camelot
+          29 - Union 41 - <a target="_blank" href="https://i.imgur.com/yOdc9gH.png">Score</a>&nbsp;<p align="left"> Lenita
+          45 - Esato 0 - <a target="_blank" href="https://i.imgur.com/swbRpP0.png">Score</a>&nbsp;<p align="left"> &nbsp;<p align="left">WEEK 1:&nbsp; <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/45578335434/in/dateposted-public/">Standings</a><p align="left"> Stanislav
+          13 - Sacredicity 15 - <a target="_blank" href="https://i.imgur.com/qehUHsf.png">Score</a>&nbsp;
+          <p align="left"> Port 30 - Rockyedge 26 - <a target="_blank" href="https://i.imgur.com/ozVQZWD.png">Score</a>&nbsp;
+          <p align="left"> Athens 28 - Camelot 42 - <a target="_blank" href="https://i.imgur.com/MfGH65k.png">Score</a>&nbsp;
+          <p align="left"> Esato 10 - LHN 71 - <a target="_blank" href="https://i.imgur.com/Jk4zxpd.png">Score</a>&nbsp;
+          <p align="left"> Union 30 - Lenita 48 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/45389079505/in/dateposted-public/">Score</a>&nbsp;
+          <p align="left">&nbsp;
+          <p align="left"><b><font size="5"><span style="background-color: #C0C0C0">2038 - News and
+          Results</span>:&nbsp;
+          </font></b><font size="2"><b>(use CTRL + F to find information about your
+    team quickly)</b></font><p align="left">GRAND CHAMPIONSHIP:&nbsp; Lenita 17
+          - <b><span style="background-color: #C0C0C0">LHN 19</span></b> - <a target="_blank" href="https://i.imgur.com/DNnPrxL.png">Score</a> -
+          <a target="_blank" href="https://i.imgur.com/TftVVio.png">Stats</a>&nbsp;<p align="left">&nbsp;<p align="left">SEMIFINALS:<p align="left">LHN
+          7 - Sacredicity 5 - <a target="_blank" href="https://i.imgur.com/YHwkpbi.png">Score</a> -
+          <a target="_blank" href="https://i.imgur.com/xStWjep.png">Stats</a>&nbsp;&nbsp;<p align="left">Lenita 22
+          - Victory Union 14 - <a target="_blank" href="https://i.imgur.com/v6VINE6.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 14:&nbsp; <a target="_blank" href="https://i.imgur.com/qR8WKGE.png">Standings</a><p align="left">Camelot
+          7 - Sacredicity 23 - <a target="_blank" href="https://i.imgur.com/bmFHer6.png">Score</a>&nbsp;<p align="left">Esato
+          0 - LHN 64 - <a target="_blank" href="https://i.imgur.com/LS7rqIq.png">Score</a>&nbsp;<p align="left">Rockyedge
+          5 - Victory Union 17 - <a target="_blank" href="https://i.imgur.com/DegFNcB.png">Score</a>&nbsp;<p align="left">Athens
+          5 - Lenita 43 - <a target="_blank" href="https://i.imgur.com/eXXFtlP.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 13:&nbsp; <a target="_blank" href="https://i.imgur.com/D3NXjcM.png">Standings</a><p align="left">Sacredicity
+          26 - Esato 0 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/46238323171/in/dateposted-public/">Score</a>&nbsp;<p align="left">Camelot
+          7 - Victory Union 10 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/32366036348/in/dateposted-public/">Score</a>&nbsp;<p align="left">Athens
+          0 - LHN 47 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/45514773534/in/dateposted-public/">Score</a>&nbsp;<p align="left">Rockyedge
+          0 - Lenita 24 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/46238893761/in/dateposted-public/">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 12:&nbsp; <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/31299123597/in/dateposted-public/">Standings</a><p align="left">Victory
+          Union 22 - Sacredicity 43 - <a target="_blank" href="https://i.imgur.com/ugdUMfJ.png">Score</a>&nbsp;<p align="left">Esato
+          19 - Athens 35 - <a target="_blank" href="https://i.imgur.com/4OO6ZbU.png">Score</a>&nbsp;<p align="left">Lenita
+          44 - Camelot 12 &nbsp;<p align="left">LHN 19 - Rockyedge 0 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/45325076085/in/dateposted-public/">Score</a><p align="left">&nbsp;<p align="left">WEEK 11:&nbsp; <a target="_blank" href="https://i.imgur.com/2C8gv48.png">Standings</a><p align="left">Sacredicity
+          27 - Athens 23 - <a target="_blank" href="https://i.imgur.com/h8ORJAA.png">Score</a>&nbsp;<p align="left">Victory
+          Union 10 - Lenita 33 - <a target="_blank" href="https://i.imgur.com/R77VZKc.png">Score</a>&nbsp;<p align="left">Rockyedge
+          15 - Esato 3 - <a target="_blank" href="https://i.imgur.com/3Z0mzKQ.png">Score</a>&nbsp;<p align="left">Camelot
+          0 - LHN 13 - <a target="_blank" href="https://i.imgur.com/usoGppT.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 10:&nbsp; <a target="_blank" href="https://i.imgur.com/KAVw33e.png">Standings</a><p align="left">Lenita
+          42 - Sacredicity 21 - <a target="_blank" href="https://i.imgur.com/2bRCldj.png">Score</a>&nbsp;<p align="left">Athens
+          10 - Rockyedge 7 - <a target="_blank" href="https://i.imgur.com/JOF7dZ3.png">Score</a>&nbsp;<p align="left">LHN
+          7 - Victory Union 12 - <a target="_blank" href="https://i.imgur.com/H2RpNwq.png">Score</a>&nbsp;<p align="left">Esato
+          28 - Camelot 12 - <a target="_blank" href="https://i.imgur.com/SHiP6rH.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 9:&nbsp; <a target="_blank" href="https://i.imgur.com/Na7dzCH.png">Standings</a><p align="left">Sacredicity
+          39 - Rockyedge 19 - <a target="_blank" href="https://i.imgur.com/PJykule.png">Score</a>&nbsp;<p align="left">Lenita
+          26 - LHN 27 - <a target="_blank" href="https://i.imgur.com/mIRJG6E.png">Score</a>&nbsp;<p align="left">Camelot
+          27 - Athens 13 - <a target="_blank" href="https://i.imgur.com/zbWKM2H.png">Score</a>&nbsp;<p align="left">Victory
+          Union 31 - Esato 26 - <a target="_blank" href="https://i.imgur.com/LwbKCKK.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 8:&nbsp; <a target="_blank" href="https://i.imgur.com/UzYpuRP.png">Standings</a><p align="left">LHN
+          20 - Sacredicity 0 - <a target="_blank" href="https://i.imgur.com/rNfX8xk.png">Score</a>&nbsp;<p align="left">Rockyedge
+          26 - Camelot 22 - <a target="_blank" href="https://i.imgur.com/iuYXu0D.png">Score</a>&nbsp;<p align="left">Esato
+          10 - Lenita 57 - <a target="_blank" href="https://i.imgur.com/mIrzek3.png">Score</a>&nbsp;<p align="left">Athens
+          12 - Victory Union 20 - <a target="_blank" href="https://i.imgur.com/inTGJjN.png">Score</a>&nbsp;<p align="left">Stanislav
+          Lions (NRU) to rejoin the PRU for
+          the 2039 season.&nbsp;<p align="left">&nbsp;<p align="left">WEEK 7:&nbsp; <a target="_blank" href="https://i.imgur.com/YfWZ8Bq.png">Standings</a><p align="left">Sacredicity
+          24 - Camelot 17 - <a target="_blank" href="https://i.imgur.com/1YJJYbW.png">Score</a>&nbsp;<p align="left">LHN
+          50 - Esato 13 - <a target="_blank" href="https://i.imgur.com/7ie8acu.png">Score</a>&nbsp;<p align="left">Victory
+          Union 7 - Rockyedge 5 - <a target="_blank" href="https://i.imgur.com/RixFypU.png">Score</a>&nbsp;<p align="left">Lenita
+          55 - Athens 7 - <a target="_blank" href="https://i.imgur.com/dbcIimk.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 6:&nbsp; <a target="_blank" href="https://i.imgur.com/65IjuI9.png">Standings</a><p align="left">Esato
+          10 - Sacredicity 28 - <a target="_blank" href="https://i.imgur.com/P21Q0dX.png">Score</a>&nbsp;<p align="left">Victory
+          Union 12 - Camelot 24 - <a target="_blank" href="https://i.imgur.com/9hipTcE.png">Score</a>&nbsp;<p align="left">LHN
+          59 - Athens 7 - <a target="_blank" href="https://i.imgur.com/DXcdDyO.png">Score</a>&nbsp;<p align="left">Lenita
+          52 - Rockyedge 3 - <a target="_blank" href="https://i.imgur.com/B3siTxZ.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 5:&nbsp; <a target="_blank" href="https://i.imgur.com/xq0vRiG.png">Standings</a><p align="left">Sacredicity
+          24 - Victory Union 0 - <a target="_blank" href="https://i.imgur.com/S7BuwSt.png">Score</a>&nbsp;<p align="left">Athens
+          21 - Esato 7 - <a target="_blank" href="https://i.imgur.com/cpfxxch.png">Score</a>&nbsp;<p align="left">Camelot
+          21 - Lenita 31 - <a target="_blank" href="https://i.imgur.com/0yTtVUF.png">Score</a>&nbsp;<p align="left">Rockyedge
+          0 - LHN 33 - <a target="_blank" href="https://i.imgur.com/EQVCHlB.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 4:&nbsp; <a target="_blank" href="https://i.imgur.com/liapjlb.png">Standings</a><p align="left">Athens
+          8 - Sacredicity 6 - <a target="_blank" href="https://i.imgur.com/IZdWlfW.png">Score</a>&nbsp;<p align="left">Lenita
+          3 - Victory Union 0 - <a target="_blank" href="https://i.imgur.com/Q7wXTkW.png">Score</a>&nbsp;<p align="left">Esato
+          8 - Rockyedge 17 - <a target="_blank" href="https://i.imgur.com/OVYeJwT.png">Score</a>&nbsp;<p align="left">LHN
+          59 - Camelot 5<p align="left">Port Sharks (NRU) to rejoin the PRU for
+          the 2039 season.&nbsp;&nbsp;<p align="left">&nbsp;<p align="left">WEEK 3:&nbsp;
+          <a target="_blank" href="https://i.imgur.com/ALzvuFr.png">Standings</a><p align="left">Sacredicity
+          38 - Lenita 56 - <a target="_blank" href="https://i.imgur.com/aJsXV4u.png">Score</a>&nbsp;<p align="left">Rockyedge
+          42 - Athens 35 - <a target="_blank" href="https://i.imgur.com/6rjskmC.png">Score</a>&nbsp;<p align="left">Victory
+          Union 5 - LHN 16 - <a target="_blank" href="https://i.imgur.com/mhQFfYD.png">Score</a>&nbsp;<p align="left">Camelot
+          18 - Esato 0 - <a target="_blank" href="https://i.imgur.com/t4jszL8.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 2:&nbsp; <a target="_blank" href="https://i.imgur.com/WDblcBs.png">Standings</a><p align="left"> Rockyedge 22
+          - Sacredicity 52 - <a target="_blank" href="https://i.imgur.com/cepfBJF.png">Score</a>&nbsp;<p align="left">LHN
+          6 - Lenita 13 - <a target="_blank" href="https://i.imgur.com/tWYyebB.png">Score</a>&nbsp;<p align="left">Athens
+          0 - Camelot 19 - <a target="_blank" href="https://i.imgur.com/aCuepch.png">Score</a>&nbsp;<p align="left">Esato
+          16 - Victory Union 12 - <a target="_blank" href="https://i.imgur.com/R2gR15e.png">Score</a>&nbsp;<p align="left">&nbsp;<p align="left">WEEK 1:&nbsp;
+          <a target="_blank" href="https://i.imgur.com/5FYpxeW.png">Standings</a><p align="left"> Sacredicity
+          27 - LHN 38 - <a target="_blank" href="https://i.imgur.com/JG7Es7D.png">Score</a>&nbsp;<p align="left">Camelot
+          42 - Rockyedge 49 - <a target="_blank" href="https://i.imgur.com/oPJIkWF.png">Score</a><p align="left"> Lenita
+          42 - Esato 17 - <a target="_blank" href="https://i.imgur.com/zp5JPzN.png">Score</a><p align="left"> Victory
+          Union 28 - Athens 38 - <a target="_blank" href="https://i.imgur.com/mu93mCV.png">Score</a><p align="left">&nbsp;
+          <p align="left"><b><font size="5"><span style="background-color: #FF00FF">2037
+          </span> - News and Results:&nbsp;
+          </font></b><font size="2"><b>(use CTRL + F to find information about your
+    team quickly)</b></font><p align="left">GRAND CHAMPIONSHIP:&nbsp; <span style="background-color: #FF00FF">Camelot</span>
+          31 - LHN 10 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/15747369612/in/photostream/">Score</a>
+          - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/15560400298/">Stats</a><p align="left">Playoffs:&nbsp;<p align="left"><span style="background-color: #FF00FF">Camelot</span>
+          39 - Sacredicity 6 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/15125876424/">Score</a><p align="left"><span style="background-color: #FF00FF"> LHN</span>
+          48 - Victory Union 7 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/15560999740/in/photostream/">Score</a>
+          <p align="left">Season Standings: <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/15561056860/">West</a>&nbsp;-
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/15722176976/in/photostream/">East</a>
+          <p align="left">&nbsp;
+          
+        
+          </p>
+          <p align="left"><b><font size="5"><span style="background-color: #3399FF">2036
+          </span> - News and Results:&nbsp;
+          </font></b><font size="2"><b>(use CTRL + F to find information about your
+    team quickly)</b></font>
+          
+        
+          </p>
+          <p align="left">OFFSEASON WEEK 13
+          <p align="left">Victory 40 - Sacred 42 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/15535968718/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/15536214157/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 12
+          <p align="left">Sacred 42 - Lenita 33 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14548457901/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14365251389/in/photostream/">Stats</a><p align="left">LHN 24 - Camelot 31 -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14546526182/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14360996867/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 11
+          <p align="left">Peace
+                Warriors  and Stanislav Lions  
+          join the NRU
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 9
+          <p align="left">Lenita 35 - LHN 35 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14282827877/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14489423853/in/photostream/">Stats</a><p align="left">Camelot 44 - Rocky 36 -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14282016699/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14282191007/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 8<p align="left">Lenita 55 - Esato 21 -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14444292961/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14446299842/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 7<p align="left">Athens 48 - Camelot 80
+          - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14216095938/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14379590676/in/photostream/">Stats</a>
+          <p align="left">Rocky 7 - Esato 18 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14203376650/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14410116083/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 6
+          <p align="left">The PRL Board of Directors announces that the Teres Royals,
+          Port Sharks, Miprate
+                Wolves, Locke Harbour Blues,
+          Magna Carta Crusaders,
+          Pearson
+                Cliffs Pirates, Workers
+                Point Bobcats, and Viscount
+                Bennett Imperialists have left the league to form the
+          National Rugby Union (NRU).&nbsp; The league as a result has chosen to
+          rename itself the PopularFreedom Rugby Union (PRU).
+          <p align="left">Lenita 50 - Athens 10 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14373803465/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14373803465/">Stats</a>
+          <p align="left">Esato 10 - Camelot 35 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14391055843/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14184316910/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 5
+          <p align="left">Esato 35 - Athens 24 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14359026301/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14175764720/in/photostream/">Stats</a> -
+          <a target="_blank" href="http://youtu.be/Dq1d1cbuTys">Video</a><p align="left">Miprate 32 - LHS 19 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14340275552/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14341903625/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 4<p align="left">LHS 29 - Stanislav 31 -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14147765548/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14311288416/in/photostream/">Stats</a>
+          <p align="left">The PRL expands to include the <a href="pesato.shtml">Esato
+          Crocodiles</a>
+          <p align="left">Lenita 22 - Camelot 21 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14321283181/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14137964979/in/photostream/">Stats</a>
+          <p align="left">Workers
+                Point Bobcats  move from the western division to the eastern
+          division for the 2037 season
+          <p align="left">Rocky 17 - Athens 42 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14320228005/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14316891411/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 3
+          <p align="left">Athens 29 - Viscount 28 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14306634272/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14308520725/in/photostream/">Stats</a> 
+          <p align="left">Rocky 21 - Teres 26 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14298807081/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14322329133/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 2
+          <p align="left">The PRL expands to include the <a href="procky.shtml">Rockyedge Tigers</a> 
+          <p align="left">Workers 21 - LHN 28 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14100549450/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14100501579/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          
+        
+          </p>
+          <p align="left">OFFSEASON WEEK 1
+          <p align="left">Victory 31 - LHN 28 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14219740952/">Score</a> -
+          <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14035453448/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">GRAND CHAMPIONSHIP:&nbsp; <span style="background-color: #3399FF">Victory</span>
+          45 - Sacredicity 21 - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14218061071/">Score</a>
+          - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14219002422/in/photostream/">Stats</a>
+          <p align="left">West&nbsp;- <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14241346103/">Standings</a>
+          - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14220963874/in/photostream/">Playoffs</a>
+          - <span style="background-color: #3399FF">Victory</span> 32 - Workers
+          10
+          <p align="left">East&nbsp;- <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14307218144/">Standings</a>
+          - <a target="_blank" href="https://www.flickr.com/photos/32188822@N03/14121141508/in/photostream/">Playoffs</a>
+          - LHN 15 - <span style="background-color: #3399FF"> Sacredicity</span>
+          22
+          <p align="left">&nbsp;
+          <p align="left"><b><font size="5"><span style="background-color: #FF0000">2035
+          </span> - News and Results:</font></b>
+          
+        
+          </p>
+          <p align="left">GRAND CHAMPIONSHIP:&nbsp; <span style="background-color: #FF0000">Camelot</span>
+          38 - LHN 35 - <a target="_blank" href="https://www.flickr.com/photos/122866887@N06/13884541874/">Score</a>
+          - <a target="_blank" href="https://www.flickr.com/photos/122866887@N06/13884210533/in/photostream/">Stats</a>
+          <p align="left">West&nbsp;- <a target="_blank" href="https://www.flickr.com/photos/122866887@N06/13884007244/">Standings</a>
+          - <a target="_blank" href="https://www.flickr.com/photos/122866887@N06/13883602545/">Playoffs</a>
+          - <span style="background-color: #FF0000">Camelot</span> 47 -
+          Stanislav 18
+          <p align="left">East&nbsp;- <a target="_blank" href="https://www.flickr.com/photos/122866887@N06/13883672733/in/photostream/">Standings</a>
+          - <a target="_blank" href="https://www.flickr.com/photos/122866887@N06/13883673093/in/photostream/">Playoffs</a>
+          - <span style="background-color: #FF0000">LHN</span> 22 - Sacredicity
+          19
+          <p align="left">&nbsp;
+          
+        
+          </p>
+          <p align="left"><b><font size="5"><span style="background-color: #F69D39">2034
+          </span> - News and Results:</font></b>
+          
+        
+          </p>
+          <p align="left">OFFSEASON WEEK 5
+          <p align="left">Magna 54 - Athens 19 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12281055754/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12280632445/in/photostream/">Stats</a>
+          <p align="left">Stanislav 36 - Sacred 17 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12272233326/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12272233116/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 4
+          <p align="left">Magna 42 - Teres 14 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12181633133/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12181824894/in/photostream/">Stats</a>
+          <p align="left">Stanislav 47 - LHN 28 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12156959533/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12157384846/in/photostream/">Stats</a>
+          <p align="left">Workers 49 - Sacred 14&nbsp; - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12156386256/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12156386176/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 3
+          <p align="left">Athens 42 - Port 10&nbsp; - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12100868734/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12100491005/in/photostream/">Stats</a>
+          <p align="left">Viscount 40 - Pearson 63&nbsp; - <a target="_blank" href="http://imagizer.imageshack.us/v2/800x600q90/843/e9ht.jpg">Score</a> -
+          <a target="_blank" href="http://imagizer.imageshack.us/v2/800x600q90/62/ltii.jpg">Stats</a>
+          <p align="left">Peace 17 - Teres 14&nbsp; - <a target="_blank" href="http://imagizer.imageshack.us/v2/800x600q90/545/ks8j.jpg">Score</a> -
+          <a target="_blank" href="http://imagizer.imageshack.us/v2/800x600q90/571/c0ed.jpg">Stats</a>
+          <p align="left">Workers 61 - LHN 33&nbsp; - <a target="_blank" href="http://imagizer.imageshack.us/v2/800x600q90/600/sdgg.jpg">Score</a> -
+          <a target="_blank" href="https://imageshack.com/i/1q7b1sj">Stats</a> -
+          <a target="_blank" href="http://youtu.be/Ib8-1_JrI-o">Video 1</a> - <a target="_blank" href="http://youtu.be/yoqRREamE9U">Video
+          2</a> - <a target="_blank" href="http://youtu.be/OFekxJpgR58">Video 3</a>
+          <p align="left">Stanislav 45 - Magna 33&nbsp; - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12045440994/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/12045038575/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 2
+          <p align="left">Peace 27 - Camelot 29&nbsp; - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11987938155/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11988755756/in/photostream/">Stats</a>
+          <p align="left">Miprate 29 - LHS 43&nbsp; - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11909845364/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11909680863/in/photostream/">Stats</a>
+ - <a target="_blank" href="http://youtu.be/UCtTW1HnUk0">Video (MIP 29 - LHS 41)</a>
+          <p align="left">Stanislav 28 - Port 14&nbsp; - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11907212195/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11907212075/in/photostream/">Stats</a>
+          <p align="left">LHN 50 - Athens 21&nbsp; - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11900675186/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11900229944/in/photostream/">Stats</a>
+ - <a target="_blank" href="http://youtu.be/ChFAxzW0Bg0">Video (LHN 12 - ATH 0)</a>
+          <p align="left">Workers 38 - Magna 24&nbsp; - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11863756625/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11864604906/in/photostream/">Stats</a>
+          <p align="left">Sacred 42 - Pearson 28 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11848101625/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11848381873/in/photostream/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">OFFSEASON WEEK 1
+          <p align="left">Camelot 42 - LHN 17 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11828443234/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11828297963/in/photostream/">Stats</a>
+          <p align="left">Magna 46 - Miprate 21 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11827528673/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11828039516/in/photostream/">Stats</a>
+          <p align="left">Athens 14 - Lenita 54 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11812755386/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11812261733/in/photostream/">Stats</a>
+          <p align="left">Viscount 29 - Peace 7 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11811608065/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11811857553/in/photostream/">Stats</a>
+          <p align="left">Pearson 35 - Teres 14 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11676576974/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11676996846/in/photostream/">Stats</a>
+          <p align="left">LHS 28 - Port 34 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11673161663/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11673161293/in/photostream/">Stats</a>
+          <p align="left">Stanislav 28 - Workers 43 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11672617343/">Score</a> -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11673157396/in/photostream/">Stats</a>
+          <p align="left">Sacred 23 - Victory 35 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11667384034/in/photostream/">Score</a> - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11667818756/">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left">GRAND CHAMPIONSHIP:&nbsp; Viscount 17 - <span style="background-color: #F69D39">Pearson</span>
+          55 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11666726354/in/photostream/">Score</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11666368845/in/photostream/">Stats</a>
+          <p align="left">West&nbsp;- <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11667159716/in/photostream/">Standings</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11666627323/in/photostream/">Playoffs</a>
+          - Victory 12 - <span style="background-color: #F69D39">Pearson</span>
+          32
+          <p align="left">East&nbsp;- <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11666628293/">Standings</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11666627983/in/photostream/">Playoffs</a>
+          - Sacredicity 12 - <span style="background-color: #F69D39">Viscount</span>
+          22
+          <p align="left">&nbsp;
+          
+        
+          </p>
+          <p align="left"><b><font size="5"><span style="background-color: #FFFF00">2033
+          </span> - News and Results:</font></b>
+          
+        
+          </p>
+          <p align="left">GRAND CHAMPIONSHIP:&nbsp; <span style="background-color: #FFFF00">Pearson</span>
+          50 - Magna 6 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11271501744/">Score</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11271478256/in/photostream/">Stats</a>
+          <p align="left">West&nbsp;- <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11270558603/in/photostream/">Standings</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11270452975/in/photostream/">Playoffs</a>
+          - <span style="background-color: #FFFF00">Pearson</span> 26 - Lenita
+          16
+          <p align="left">East&nbsp;- <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11270511014/">Standings</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11270510584/in/photostream/">Playoffs</a>
+          - <span style="background-color: #FFFF00">Magna</span>  25 - LHN 19
+          <p align="left">&nbsp;
+          
+        
+          </p>
+          <p align="left"><b><font size="5"><span style="background-color: #00FFFF">2032
+          </span> - News and Results:</font></b>
+          
+        
+          </p>
+          <p align="left">GRAND CHAMPIONSHIP:&nbsp;&nbsp;Magna 3 - <span style="background-color: #00FFFF"> Workers</span>
+          7 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11269892283/">Score</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11269892193/in/photostream/">Stats</a>
+          <p align="left">West&nbsp;- <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11269470633/">Standings</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11269401226/in/photostream/">Playoffs</a>
+          - <span style="background-color: #00FFFF">Workers</span> 41 - Pearson
+          17
+          <p align="left">East&nbsp;- <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11269478604/">Standings</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11269527723/in/photostream/">Playoffs</a>
+          - <span style="background-color: #00FFFF">Magna</span> 32 - LHN 20
+          <p align="left">&nbsp;
+          
+        
+          </p>
+          <p align="left"><b><font size="5"><span style="background-color: #00FF00">2031
+          </span> - News and Results:</font></b>
+          
+        
+          </p>
+          <p align="left">GRAND CHAMPIONSHIP:&nbsp;&nbsp;<span style="background-color: #00FF00">Magna</span> 19 - Pearson 12 -
+          <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11268584045/">Score</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11268618066/in/photostream/">Stats</a>
+          <p align="left">West&nbsp;- <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11263215786/in/photostream/">Standings</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11263271323/in/photostream/">Playoffs</a>
+          - Victory 17 - <span style="background-color: #00FF00">Pearson</span>
+          44
+          <p align="left">East&nbsp;- <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11263230384/">Standings</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11263271833/in/photostream/">Playoffs</a>
+          - <span style="background-color: #00FF00">Magna</span>  41 - Peace 16
+          <p align="left">&nbsp;
+          
+        
+          </p>
+          <p align="left"><b><font size="5"><span style="background-color: #CCCCFF">2030
+          </span> - News and Results:&nbsp;&nbsp;</font></b>
+          
+        
+          </p>
+          <p align="left">GRAND CHAMPIONSHIP:&nbsp; <span style="background-color: #CCCCFF">Magna</span> 28 - Camelot 5 - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11262878885/">Score</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11262878815/in/photostream/">Stats</a>
+          <p align="left">West&nbsp;- <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11262390915/in/photostream/">Standings</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11262390725/in/photostream/">Playoffs</a>
+          - Pearson 19 - <span style="background-color: #CCCCFF">Camelot</span>
+          25
+          <p align="left">East&nbsp;- <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11262438454/">Standings</a>
+          - <a target="_blank" href="http://www.flickr.com/photos/32188822@N03/11262423206/in/photostream/">Playoffs</a>
+          - <span style="background-color: #CCCCFF">Magna</span> 46 - LHN 10
+          <p align="left">&nbsp;
+          
+        
+          </p>
+          <p align="left"><b><font size="5"><span style="background-color: #C58B52">2029
+          </span> - News and Results:&nbsp;&nbsp;</font></b>
+          
+        
+          </p>
+          <p align="left">PRL reverts back to Western, and Eastern divisions for
+          the 2030 season
+          <p align="left">Tier 1&nbsp;- <a target="_blank" href="https://i.imgur.com/I9zYrWz.jpg">Standings</a>
+          - <a target="_blank" href="https://i.imgur.com/zHGLKNT.jpg">Playoffs</a>
+          <p align="left">Tier 2&nbsp;- <a target="_blank" href="https://i.imgur.com/ZIk8RJs.jpg">Standings</a>
+          <p align="left">&nbsp;
+          
+        
+          </p>
+          <p align="left"><b><font size="5"><span style="background-color: #C0C0C0">2028
+          SEASON</span> - News and Results:</font></b>
+          
+        
+          </p>
+          <p align="left">Tier 1&nbsp;- <a target="_blank" href="https://i.imgur.com/j0ljF80.jpg">Standings</a>
+          - <a target="_blank" href="https://i.imgur.com/WzlXx4j.jpg">Playoffs</a>
+          <p align="left">Tier 2&nbsp;- <a target="_blank" href="https://i.imgur.com/AavKZru.jpg">Standings</a><p align="left">&nbsp;
+          <p align="left"><b><font size="5"><span style="background-color: #FF00FF">2027
+          OFFSEASON</span> - News and Results:&nbsp;
+          </font></b><font size="2"><b>(use CTRL + F to find information about your
+    team quickly)</b></font>
+          
+        
+          </p>
+          <p align="left">WEEK 2:
+          
+        
+          </p>
+          <p align="left">Victory 35 - Teres 0&nbsp;&nbsp;- <a target="_blank" href="http://imageshack.us/a/img199/5338/27002.jpg">Scores</a>
+          - <a target="_blank" href="http://imageshack.us/a/img831/8739/27002b.jpg">Stats</a>
+          
+        
+          </p>
+          <p align="left">&nbsp;
+          
+        
+          </p>
+          <p align="left">WEEK 1:
+          
+        
+          </p>
+          <p align="left">Victory 35 - Viscount 7&nbsp;&nbsp;- <a target="_blank" href="http://i.imgur.com/flGZeG3.jpg">Scores</a>
+          - <a target="_blank" href="http://i.imgur.com/ihoV8ZD.jpg">Stats</a>
+          
+        
+          </p>
+          <p align="left">&nbsp;
+          
+        
+          </p>
+          <p align="left"><b><font size="5"><span style="background-color: #FF00FF">2027
+          SEASON</span> - News and Results:&nbsp;
+          </font></b><font size="2"><b>(use CTRL + F to find information about your
+    team quickly)</b></font>
+          
+        
+          </p>
+          <p align="left">GRAND FINAL &amp; PLAYOFFS - <a target="_blank" href="http://i.imgur.com/V5FxGgP.jpg">Results</a>
+          - Lenita Legions 15 - Pearson Cliffs Pirates 17
+          
+        
+          </p>
+          <p align="left">FINAL STANDINGS - <a target="_blank" href="http://i.imgur.com/HOOIMhI.jpg">WEST</a>
+          - <a target="_blank" href="http://i.imgur.com/U9Am7dg.jpg">EAST</a>
+          
+        
+          </p>
+          <p align="left">Game Day 14 - <a target="_blank" href="http://i.imgur.com/2VI30UO.jpg">Results</a>
+          
+        
+          </p>
+          <p align="left">Game Day 13 - <a target="_blank" href="http://i.imgur.com/Cpb2nW2.jpg">Results</a>
+          
+        
+          </p>
+          <p align="left">Game Day 12 - <a target="_blank" href="http://i.imgur.com/ctmRcY0.jpg">Results</a>
+          
+        
+          </p>
+          <p align="left">Game Day 11 - <a target="_blank" href="http://i.imgur.com/dKiGCz2.jpg">Results</a>
+          
+        
+          </p>
+          <p align="left">Game Day 10 - <a target="_blank" href="http://i.imgur.com/SGRqad2.jpg">Results</a>
+          
+        
+          </p>
+          <p align="left">Game Day 9 - <a target="_blank" href="http://i.imgur.com/D1cq8Z4.jpg">Results</a>
+          
+        
+          </p>
+          <p align="left">Game Day 8 - <a target="_blank" href="http://i.imgur.com/qFCB9J7.jpg">Results</a>
+          
+        
+          </p>
+          <p align="left">Game Day 7 - <a target="_blank" href="http://i.imgur.com/ZIyDUrL.jpg">Results</a>
+          
+        
+          </p>
+          <p align="left">Game Day 6 - <a target="_blank" href="http://i.imgur.com/vSvncO8.jpg">Results</a>
+          
+        
+          </p>
+          <p align="left">Game Day 5 - <a target="_blank" href="http://i.imgur.com/jaaZ24c.jpg">Results</a>
+          
+        
+          </p>
+          <p align="left">Game Day 4 - <a target="_blank" href="http://i.imgur.com/HwYrgeR.jpg">Results</a>
+          <p align="left">Game Day 3 - <a target="_blank" href="http://i.imgur.com/8DhGPSG.jpg">Results</a>
+          <p align="left">Game Day 2 - <a target="_blank" href="http://i.imgur.com/Bm0guuk.jpg">Results</a>
+          <p align="left">Game Day 1 - <a target="_blank" href="http://i.imgur.com/wnfUu5H.jpg">Results</a>
+          <p align="left">&nbsp;<p align="left">&nbsp;</td>
+      
+      </tr>
+    <center>
+    </table>
+    </center>
+  </div>
+
+</body>
+
+</html>
